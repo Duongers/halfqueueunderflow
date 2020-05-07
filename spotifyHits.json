@@ -1,5 +1,5 @@
 [
-	{	
+	{
 		"key":"2010",
 		"values":[
 			{
@@ -52,12 +52,12 @@
 				"year":"Years 2000-2009",
 				"value":0.7146076294277922
 			},
-			{	
+			{
 				"categories":"Speechiness",
 				"year":"Years 2000-2009",
 				"value":0.09778470708446874
 			},
-			{	
+			{
 				"categories":"Acousticness",
 				"year":"Years 2000-2009",
 				"value":0.14800758552452314
@@ -99,7 +99,7 @@
 			},
 			{
 				"categories":"Acousticness",
-				"year":"Years 1990-1999",			
+				"year":"Years 1990-1999",
 				"value":0.16951094813043516
 			},
 			{
@@ -167,7 +167,7 @@
 				"year":"Years 1970-1979",
 				"value":0.5703700231779543
 			},
-			{	
+			{
 				"categories":"Energy",
 				"year":"Years 1970-1979",
 				"value":0.5848804275045061
